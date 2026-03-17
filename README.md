@@ -1,5 +1,6 @@
 # Aimers_8th
 LG 2차 해커톤 진출을 목적으로 양자화 진행
+
 해커톤 설명 : [Aimers 8기 : 모델 경량화 온라인 해커톤](https://dacon.io/competitions/official/236673/mysubmission)
 
 ## Introduction
