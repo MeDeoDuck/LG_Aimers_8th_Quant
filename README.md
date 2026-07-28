@@ -1,4 +1,5 @@
-# LG Aimers 8th : LLM Compression — EXAONE-4.0-1.2B를 4비트 양자화해 추론 단가를 낮추는 경량화 실험
+# LG Aimers 8th : LLM Compression
+>EXAONE-4.0-1.2B를 4비트 양자화해 추론 단가를 낮추는 경량화 실험
 
 서빙·온디바이스 환경에서 LLM 추론 비용을 줄이기 위해, LG의 sLLM(EXAONE-4.0-1.2B)을 GPTQ W4A16 양자화와 구조적 pruning, knowledge distillation으로 압축한 LG Aimers 8기 모델 경량화 해커톤 실험 저장소입니다.
 
